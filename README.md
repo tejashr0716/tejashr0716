@@ -14,11 +14,13 @@ I build Python backend services and REST APIs, with a focus on data modelling, r
 
 A personal project for real-time vehicle telemetry and geospatial tracking.
 
-- FastAPI endpoints for telemetry ingestion and vehicle data.
-- Redis Streams and background workers for processing position events.
-- PostgreSQL/TimescaleDB storage and WebSocket location updates.
+- FastAPI endpoints for vehicle registration, GPS ingestion and position history.
+- PostgreSQL for persistent telemetry and transactional outbox events.
+- Redis cache/GEO/PubSub and WebSockets for live location updates.
 
-**Project stack:** Python, FastAPI, Redis, PostgreSQL/TimescaleDB, WebSockets and H3.
+**Project stack:** Python, FastAPI, PostgreSQL, Redis and WebSockets.
+
+The demo uses synthetic GPS data. The [public UI showcase](https://tejashr0716.github.io/fleet/) is a browser simulation; the full backend runs separately.
 
 See the repository for architecture, local setup and test files.
 
