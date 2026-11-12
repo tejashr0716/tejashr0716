@@ -1,137 +1,108 @@
 <div align="center">
 
-# Hi 👋 I'm Tejas HR
+# Hi 👋 I'm Tejas H R
 
-### 🐍 Python Backend Developer | FastAPI | REST APIs
+### 🚀 Backend & Distributed Systems Engineer | Python · FastAPI · C++ · Cloud
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Python+Backend+Developer;FastAPI+%7C+REST+APIs;Real-Time+Telemetry+Projects;Open+To+Entry-Level+Backend+Roles" alt="Python Backend Developer · FastAPI and REST APIs · Real-Time Telemetry · Open to Entry-Level Backend Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=26&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Python+Backend+%26+Distributed+Systems;FastAPI+%7C+C%2B%2B17+%7C+PostgreSQL+%7C+Redis;High-Throughput+Telemetry+%26+APIs;Open+to+SDE+%26+Backend+Developer+Roles" alt="Typing SVG" />
 
-📍 **Bengaluru, India**
+📍 **Bengaluru, India** &nbsp;|&nbsp; 🎓 **The Oxford College of Engineering (B.E. ISE, 2022–2026)**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejashr0716/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/tejashr0716/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:tejashrise2026@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://tejashr0716.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-```python
-class TejasHR:
-    role = "Python Backend Developer"
-    location = "Bengaluru, India"
+2026 engineering graduate skilled in **scalable backend architectures, distributed systems, and real-time telemetry pipelines**. Experienced in navigating existing codebases, resolving software defects, and designing automated test strategies achieving **90%+ code coverage**.
 
-    skills = [
-        "Python",
-        "FastAPI",
-        "Flask",
-        "MySQL",
-        "PostgreSQL",
-        "REST APIs",
-    ]
-
-    current_focus = "Backend APIs and real-time telemetry"
-    open_to = "Entry-level backend and software engineering roles"
-```
-
-I build Python backend services and REST APIs, with a focus on **data modelling, request validation, and database performance**.
+- 💼 **Full Stack Developer Intern** at **KodNest** (Feb 2026 – Present) — Backend REST endpoints, test strategy (92% coverage), 37.8% reporting API latency reduction on 80K+ datasets.
+- 💼 **Web Developer Intern** at **SkillXAcademy** (Oct 2025 – Dec 2025) — Responsive web interfaces, caching layers, and 21.8% warm catalog latency reduction.
+- 🎯 **Target Roles:** Software Development Engineer (SDE), Backend Developer, Distributed Systems Engineer.
 
 ---
 
-# 🌐 Connect With Me
+## ⚡ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, C++17, SQL, JavaScript |
+| **Frameworks & Backend** | FastAPI, Flask, RESTful APIs, Pydantic, WebSockets, Microservices |
+| **Databases & Caching** | PostgreSQL, MySQL, Redis, RabbitMQ |
+| **DevOps & Cloud** | Docker, Git, GitLab CI/CD, GitHub Actions, AWS, Linux |
+| **Testing & Observability**| pytest (Unit & Functional), Wireshark, Telemetry & Logging |
+| **AI & Developer Tools** | GitHub Copilot, Cursor, Postman |
 
 <p align="center">
-<a href="https://www.linkedin.com/in/tejashr0716/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/tejashr0716">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://tejashr0716.github.io">
-<img src="https://img.shields.io/badge/Portfolio-14532D?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://leetcode.com/u/TejasHR2004">
-<img src="https://img.shields.io/badge/LeetCode-1F2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
-</a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,postgres,mysql,redis,rabbitmq,docker,git,github,gitlab,aws,linux,postman&perline=8" alt="Tech Stack Icons" />
 </p>
 
 ---
 
-# ⚡ Tech Stack
+## 🚀 Featured Engineering Projects
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,postgres,redis,docker,git,github,js,html,css&perline=6" alt="Python, FastAPI, Flask, MySQL, PostgreSQL, Redis, Docker, Git, GitHub, JavaScript, HTML and CSS" />
-</p>
+### 1. 🛡️ [CloudSentinel — Multi-Cloud Telemetry Health Engine](https://github.com/tejashr0716/Distributed-Cloud-Telemetry-Health-Sentinel)
+> *Python, FastAPI, C++17, Redis, RabbitMQ, PostgreSQL, Wireshark, pytest*
+- Engineered high-throughput C++17 health-scoring and Z-score anomaly engine evaluating synthetic node streams at **7.36M evals/sec (135.9 ns/eval)**.
+- Built asynchronous FastAPI gateway sustaining **634.7 req/sec ingest** with Redis rolling windows and PostgreSQL persistence.
+- Reusable test automation framework with pytest fixtures achieving **94% code coverage** and **100% pass rate**.
 
-**Core stack:** Python · FastAPI · Flask · MySQL · SQL · Pydantic · Git
+### 2. ⚡ [ChandyStore — Distributed Consensus Key-Value Store](https://github.com/tejashr0716/Distributed-Consensus-KeyValue-Store-Raft)
+> *Python, FastAPI, C++17, Redis, RabbitMQ, PostgreSQL, pytest*
+- PostgreSQL-backed coordination prototype with Martin Kleppmann monotonic fencing tokens eliminating split-brain risks.
+- C++17 log engine validating entries at **1.10M ops/sec** (CRC32) and **0.55M commits/sec**.
+- Advisory transaction locks achieving **564.6 writes/sec** and **612.8 acquisitions/sec** over loopback TCP with 100% mutual exclusion.
 
-**Fleet project stack:** PostgreSQL · Redis · WebSockets · JWT · Docker Compose · HTML/CSS/JavaScript · Chart.js
+### 3. 🏢 [SAP S/4HANA Custom API Integration Gateway](https://github.com/tejashr0716/SAP-S4HANA-Custom-API-Integration)
+> *FastAPI, OData v4, Pydantic v2, Circuit Breaker, Dead-Letter Queue, pytest*
+- Production-grade ERP integration bridge with delta change tracking, cursor pagination, and **100% double-entry mathematical reconciliation**.
+- Built resilience layer with 3-state Circuit Breaker (`CLOSED`, `OPEN`, `HALF_OPEN`), exponential backoff with jitter, and operator DLQ reprocessing.
+- Interactive financial dashboard with real-time 3-second telemetry polling, fault-injection simulator, and CSV export.
 
----
-
-# 🚀 Featured Project
-
-## 🚗 [Fleet — Real-Time Vehicle Tracking Demo](https://github.com/tejashr0716/fleet)
-
-A personal full-stack project for **vehicle telemetry and geospatial tracking**, built with Python, FastAPI, PostgreSQL, Redis, and WebSockets.
-
-✔ **REST APIs** — vehicle registration, GPS ingestion, position history, geofences, and alerts
-
-✔ **JWT authentication** — authenticated API access and WebSocket updates
-
-✔ **PostgreSQL** — persistent telemetry history and transactional outbox events
-
-✔ **Redis** — caching, geospatial queries, and Pub/Sub for live delivery
-
-✔ **Dashboard** — map visualization and telemetry charts
-
-✔ **Local setup and testing** — Docker Compose, unit tests, and integration tests
-
-> **Demo scope:** GPS data is synthetic. The public UI showcase uses browser fixtures; the full backend runs separately. This is a demonstration project, not a production vehicle deployment.
-
-[💻 Source Code](https://github.com/tejashr0716/fleet) · [🌍 Public UI Showcase](https://tejashr0716.github.io/fleet/) · [🏗️ Architecture](https://github.com/tejashr0716/fleet/blob/main/docs/architecture.md) · [📖 Demo Walkthrough](https://github.com/tejashr0716/fleet/blob/main/docs/demo-walkthrough.md)
+### 4. 🚗 [Fleet — Real-Time Geospatial Vehicle Telemetry](https://github.com/tejashr0716/fleet)
+> *Python, FastAPI, PostgreSQL, Redis GEO, WebSockets, Docker*
+- Real-time GPS breadcrumb ingestion, sliding-window speed delta detection, and dynamic geofence evaluation.
+- Redis geospatial queries and WebSocket pub/sub for sub-second fleet tracking and alerts.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=tejashr0716&show_icons=true&theme=tokyonight" alt="Tejas HR's GitHub statistics" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejashr0716&layout=compact&theme=tokyonight" alt="Most-used languages across Tejas HR's public repositories" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tejashr0716&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejashr0716&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-# 🎓 Education
+## 📜 Verified Certifications
 
-🎓 **B.E. in Information Science and Engineering**
-
-📅 **2026**
-
----
-
-# 🎯 Current Focus
-
-✅ Backend API development and request validation
-
-✅ Relational data modelling and database performance
-
-✅ Real-time telemetry and geospatial tracking
-
-✅ Reliable event delivery and failure handling
-
----
-
-# 💼 Opportunities
-
-Open to entry-level **Backend Developer**, **Python Developer**, and **Software Engineer** roles.
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/tejashr0716/) · [Explore my portfolio](https://tejashr0716.github.io)
+- **IBM DevOps and Software Engineering Professional Certificate** — IBM
+- **Microsoft Back-End Developer Professional Certificate** — Microsoft, Coursera
+- **Mastering REST APIs with FastAPI** — Packt, Coursera
+- **Introduction to Data Analysis Using Python** — Google, Coursera
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=tejashr0716&style=for-the-badge&color=0e7490" alt="Profile view counter" />
+📫 **Get in Touch:** [LinkedIn](https://www.linkedin.com/in/tejashr0716/) &bull; [Email](mailto:tejashrise2026@gmail.com) &bull; [LeetCode](https://leetcode.com/u/tejashr0716/)
 
-### ⭐ Thanks for visiting my profile ⭐
+<img src="https://komarev.com/ghpvc/?username=tejashr0716&style=for-the-badge&color=0e7490" alt="Profile Views" />
 
 </div>
